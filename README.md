@@ -16,3 +16,5 @@ This project contains a small shell script that calculates simple interest.
 ```
 
 Enter the principal amount, annual rate, and time period when prompted.
+
+This repository is prepared for the first pull request and merge exercise.
