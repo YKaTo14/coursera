@@ -1,20 +1,32 @@
-# Simple Interest Calculator
+# Paradise Nursery
 
-This project contains a small shell script that calculates simple interest.
+Paradise Nursery is a plant shop landing page and shopping cart exercise built with React and Redux.
 
-## Files
+## Project Overview
 
-- `simple-interest.sh` - script that prompts for principal, rate, and time
-- `LICENSE` - Apache License 2.0
-- `CODE_OF_CONDUCT.md` - community guidelines
-- `CONTRIBUTING.md` - contribution guide
+- `App.jsx` renders the landing page with the company name and a Get Started button.
+- `AboutUs.jsx` describes the company.
+- `ProductList.jsx` shows plant products grouped by category.
+- `CartItem.jsx` renders the shopping cart page.
+- `CartSlice.jsx` contains the Redux cart logic.
+- `App.css` contains the styling and background image rules for the landing page.
 
-## Usage
+## Features
 
-```bash
-./simple-interest.sh
-```
+- Responsive landing page
+- Product listing with category grouping
+- Add to cart flow with Redux state
+- Cart quantity updates, delete, checkout, and continue shopping actions
 
-Enter the principal amount, annual rate, and time period when prompted.
+## Submission Files
 
-This repository is prepared for the first pull request and merge exercise.
+The assignment asks for the public GitHub URLs of:
+
+1. `README.md`
+2. `AboutUs.jsx`
+3. `App.css`
+4. `App.jsx`
+5. `CartSlice.jsx`
+6. `ProductList.jsx`
+7. `CartItem.jsx`
+
